@@ -17,6 +17,6 @@
 [<img align="left" alt="Alex Murray | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="alex_murray | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-[gmail]: alexmurray308@gmail.com
+[gmail]: mailto:alexmurray308@gmail.com
 [discord]: https://discordapp.com/users/alex_murray
 [linkedin]: https://www.linkedin.com/in/alex-murray-ab4624218/
