@@ -1,6 +1,6 @@
 <h1>Let's make a game!</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration (Pending creation)](https://www.google.com)
 
 <h2>Description</h2>
 This is a multiplayer survival game I am making with a group of three others. We are aiming for gameplay similar to the forest with an early 2000's look.
@@ -9,8 +9,10 @@ This is a multiplayer survival game I am making with a group of three others. We
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>C#</b> 
+- <b>Blueprints</b>
+- <b>Niagara Particle systems</b>
+- <b>UE Landmass System</b>
 
 <h2>Environments Used </h2>
 
