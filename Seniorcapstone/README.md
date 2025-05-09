@@ -3,36 +3,47 @@
  ### [YouTube Demonstration (Pending creation)](https://www.google.com)
 
 <h2>Description</h2>
-In late 2023 Edward Fitzgibbon and I made a website which was a mock adoption page for Mythical Beasts. Of the few projects I've done in my undergraduade CS courses, this assignment was one of the most enjoyable.
+This is a multiplayer survival game I am making with a group of three others. We are aiming for gameplay similar to the forest with an early 2000's look.
 <br />
 
 
-<h2>What I learned as part of the project</h2>
+<h2>Languages and Utilities Used</h2>
 
-- <b>NodeJS</b> 
-- <b>Handlebars</b>
-- <b>MySQL</b>
-- <b>PHP</b>
+- <b>C#</b> 
+- <b>Blueprints</b>
+- <b>Niagara Particle systems</b>
+- <b>UE Landmass System</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10/11</b> (21H2)
+
+<h2>Parts I've worked on (so far):</h2>
 
 <p align="center">
-Project DDL: <br/>
-<img src="DDL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating save logic: <br/>
+<img src="Savelogic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Project DML:  <br/>
-<img src="DML.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating daylight cycle:  <br/>
+<img src="Daylightcycle.gif" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Example from the handlebar pages:  <br/>
-<img src="HandlebarExample.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Environment using landmass elements:  <br/>
+<img src="Environment.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Example from the app.js:  <br/>
-<img src="AppjsExample.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Multiplayer:  <br/>
+<img src="Multiplayer.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Aside from designing the application itself, I also had to work on setting up the application as a service and hosted it from a local machine as part of the course.
+I've also worked on the following for our group:
 </p>
+<ul>
+<li>Establishing Multi-User editing for synchronous changes</li>
+<li>Experiment with Niagara particle systems</li>
+<li>Several menu interfaces</li>
+</ul>
 <!--
  ```diff
 - text in red
@@ -41,4 +52,4 @@ Aside from designing the application itself, I also had to work on setting up th
 # text in gray
 @@ text in purple (and bold)@@
 ```
---!>
+
