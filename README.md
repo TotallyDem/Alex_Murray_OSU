@@ -5,7 +5,7 @@
 - <b>Senior Capstone Project</b>
   - [Developing a game in UE5](/Seniorcapstone/README.md)
 - <b>Database course portfolio project</b>
-  - [Placeholder](/DatabasesProject/README.md)
+  - [Webapp with a relational database powered backend](/DatabasesProject/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
