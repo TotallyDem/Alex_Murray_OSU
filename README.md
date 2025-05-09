@@ -5,7 +5,7 @@
 - <b>Senior Capstone Project</b>
   - [Developing a game in UE5](/Seniorcapstone/README.md)
 - <b>Placeholder</b>
-  - [Placeholder](https:www.google.com)
+  - [Placeholder](/DatabasesProject/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
